@@ -2,13 +2,13 @@
 
 <html>
 <head>
-<title>Abschlussaufgabe Jens Tag 2</title>
+<title>Blocks iteration</title>
 
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<h3>Abschlussaufgabeee 08.05.2018: farbige divs</h3>
+<h3>Blocks : farbige divs</h3>
 <p>
 	<form method="post" action="aufgabe.php">
 		<label for="anzahl">Wieviele Flächen hätten's denn gern?</label>
